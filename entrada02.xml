@@ -11,11 +11,11 @@
 </channel>
 
 <channel>
-<name>[COLOR green] filmes [/COLOR] [COLOR red] 2024 [/COLOR]</name>
+<name>[COLOR blue] filmes [/COLOR] [COLOR red] 2024 [/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/cavaleiroaddon/addoncavaleiro2/refs/heads/main/filmes2024.xml</externallink>
 </channel> 
 
 
